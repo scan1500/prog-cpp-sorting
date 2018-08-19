@@ -1,0 +1,4 @@
+﻿  InsertionSort.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\insertionsort\insertionsort.cpp(66): warning C4244: "Initialisierung": Konvertierung von "time_t" in "int", möglicher Datenverlust
+  InsertionSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\InsertionSort.exe
+  InsertionSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\InsertionSort.pdb (Partial PDB)

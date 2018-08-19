@@ -1,0 +1,4 @@
+﻿  BubbleSort.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\bubblesort\bubblesort.cpp(66): warning C4244: "Initialisierung": Konvertierung von "time_t" in "int", möglicher Datenverlust
+  BubbleSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\BubbleSort.exe
+  BubbleSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\BubbleSort.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  ShellSort.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\shellsort\shellsort.cpp(76): warning C4244: "+=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\andi\desktop\prog_c\projects\kap01\shellsort\shellsort.cpp(92): warning C4244: "Initialisierung": Konvertierung von "time_t" in "int", möglicher Datenverlust
+  ShellSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\ShellSort.exe
+  ShellSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\ShellSort.pdb (Partial PDB)

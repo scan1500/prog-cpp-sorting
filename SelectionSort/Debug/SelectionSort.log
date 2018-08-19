@@ -1,0 +1,4 @@
+﻿  SelectionSort.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\selectionsort\selectionsort.cpp(71): warning C4244: "Initialisierung": Konvertierung von "time_t" in "int", möglicher Datenverlust
+  SelectionSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\SelectionSort.exe
+  SelectionSort.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\SelectionSort.pdb (Partial PDB)
